@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<Module id="mapview" ns="Alloy.Globals.Map" module="ti.map" method="createView" onClick="report"/>
+	</Window>
+</Alloy>

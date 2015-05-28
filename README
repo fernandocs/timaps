@@ -1,3 +1,10 @@
 This is a project for test MAPS, ANNOTATION and ROUTES in Titanium
 
-You need change field Google Api key with yours in tiapp.xml for work in android platform.
+You need create project in Google Developer Console:
+https://console.developers.google.com
+
+This project should contains Directions API and Google Maps Android API v2 enabled.
+
+And create two credential, one for Maps for android and another for browser applications.
+
+The credentional for Android you use inside tiapp.xml and another to config.json.

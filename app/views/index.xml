@@ -1,5 +1,5 @@
 <Alloy>
-	<Window class="container">
+	<Window class="container" onClose="removeHandler">
 		<Module id="mapview" ns="Alloy.Globals.Map" module="ti.map" method="createView" onClick="report"/>
 	</Window>
 </Alloy>

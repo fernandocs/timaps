@@ -1,5 +1,7 @@
 {
-	"global": {}, 
+	"global": {
+		"googlekey":"PASTE YOUR GOOGLE MAPS API KEY HERE"
+	}, 
 	"env:development": {}, 
 	"env:test": {}, 
 	"env:production": {}, 
